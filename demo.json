@@ -1,7 +1,7 @@
 {
    "notifications":{
       "fr":{
-         "1": {"id":1, "title": "Welcome to cloudwatt", "date":"July 13, 2014 11:13:00", "content":"<p>THIS THIS A NOTIFICATION COMING FORM CLOUDWATT</p><p>Thank You for using cloudwatt</p>"}, "2": {"id":1, "title": "Welcome to Braa", "date":"April 12, 2017 17:51:00", "content":"THIS IS ANother Notification"}
+         "1": {"id":1, "title": "Welcome to cloudwatt", "date":"July 13, 2014 11:13:00", "content":"<p>Mises à jour logicielle et firmware sur nos hyperviseurs</p><br><h1>Recommendations></h1><p>il est conseillé d'effectuer un snapshot préventif des instances de gabarit t1.cw.tiny ou s1.cw.small-1.</p><p>Il est également recommandé de redimensionner temporairement les instances critiques vers un gabarit de type n1.cw.standard-1.</p><p>Le retour arrière sera possible vers le gabarit s1.cw.small-1,mais la taille disque racine (50 Go) des gabarits n1 ne permettra pas de revenir vers un gabarit t1.cw.tiny (20 Go).</p><p>Toute l'équipe support de l'offre Cloudwatt reste à votre disposition pour répondre à vos questions</p>.<p>L'équipe Cloudwatt – Orange Cloud for Business</p>"}, "2": {"id":1, "title": "Welcome to Braa", "date":"April 12, 2017 17:51:00", "content":"THIS IS ANother Notification"}
       },
       "en":{
          "1":{
