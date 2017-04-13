@@ -1,7 +1,7 @@
 {
    "notifications":{
       "fr":{
-         "1": {"id":1, "title": "Welcome to cloudwatt", "date":"July 13, 2014 11:13:00", "content":"THIS THIS A NOTIFICATION COMING FORM CLOUDWATT"}, "2": {"id":1, "title": "Welcome to Braa", "date":"April 12, 2017 17:51:00", "content":"THIS IS ANother Notification"}
+         "1": {"id":1, "title": "Welcome to cloudwatt", "date":"July 13, 2014 11:13:00", "content":"<p>THIS THIS A NOTIFICATION COMING FORM CLOUDWATT</p><p>Thank You for using cloudwatt</p>"}, "2": {"id":1, "title": "Welcome to Braa", "date":"April 12, 2017 17:51:00", "content":"THIS IS ANother Notification"}
       },
       "en":{
          "1":{
