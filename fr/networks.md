@@ -1,17 +1,21 @@
 
-Notre Offre                                                           
-                                                                      
-*   [Stockage bloc](https://www.cloudwatt.com/fr/produits/stockage-bloc/)                
-                         
+Guide
+
+*   [La création d'un réseau dans notre guide de prise en main.](https://support.cloudwatt.com/debuter/cons-1-creation-reseau.html)
+
+Notre Offre 
+
+*   [Le réseau virtuel](https://www.cloudwatt.com/fr/produits/reseau/)
+*   [Les connexions directes](https://www.cloudwatt.com/fr/produits/connexions-directes/)                
+
+
 Notre Aide                                                            
                                                                       
-*   [Créer un volume](https://support.cloudwatt.com/kb/faq/stockage-bloc/comment-creer-un-volume.html)                              
-*   [Attacher et détacher un volume à une instance](https://support.cloudwatt.com/kb/faq/stockage-bloc/comment-attacher-detacher-un-volume-a-une-instance.html)          
-*   [Augmenter la taille d'un volume](https://support.cloudwatt.com/kb/faq/stockage-bloc/comment-augmenter-la-taille-d-un-volume.html)    
-*   [Supprimer un volume](https://support.cloudwatt.com/kb/faq/stockage-bloc/comment-supprimer-un-volume.html)  
+*   [Nos guides](https://www.cloudwatt.com/fr/produits/reseau/documentation.html)                              
+*   [FAQ réseau](https://support.cloudwatt.com/kb/faq/mise-en-reseau-et-securite/index.html)          
+*   [FAQ LBaaS](https://support.cloudwatt.com/kb/faq/lbaas/index.html)    
+*   [FAQ Connexions directes](https://support.cloudwatt.com/kb/faq/connexion-directe/index.html)  
 
 Nos Tarifs                                                            
                                                                       
-*   [Tarifs stockage bloc](https://www.cloudwatt.com/fr/produits/tarifs.html#stockage-bloc)
-*   [Comment mes instantanés de volumes sont-ils facturés ?](https://support.cloudwatt.com/kb/faq/paiement-et-facturation/comment-mes-instantanes-sont-ils-factures.html)
-*   [Les volumes en statut erreur sont-ils facturés ?](https://support.cloudwatt.com/kb/faq/stockage-bloc/mes-volumes-en-statut-erreur-sont-ils-factures.html)
+*   [Tarifs des offres réseau](https://www.cloudwatt.com/fr/produits/reseau/tarifs.html)
